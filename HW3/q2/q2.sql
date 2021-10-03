@@ -1,0 +1,1 @@
+select count (distinct colleges) from player_bios;
